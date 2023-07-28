@@ -15,9 +15,8 @@ Let's connect and explore the possibilities together! Feel free to reach out for
 ___
 
 ## My Technology Stack 💻
-<img src="{BadgeURLHere}" />
 - Programming Languages:
-  * <img src="{https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white}" />
+  * ![image]({https://camo.githubusercontent.com/57cec1c01287dfdc2a3fe64954936293c761b7fa9a7fc1b9de3916a295f15170/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465})
 <!--
 Here are some ideas to get you started:
 
