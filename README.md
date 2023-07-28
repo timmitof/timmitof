@@ -7,14 +7,16 @@ My expertise is building robust Android applications with a focus on user-centri
 ## My Targets 🚀 
 I'm always on the lookout for exciting projects and challenges that push the boundaries of what's possible in the Android ecosystem. My goal is to build impactful and innovative applications that make a difference in people's lives.
 
-## Let's connect 🌟 
-Let's connect and explore the possibilities together! Feel free to reach out for collaborations or discussions on all things Android.
-
 ## Continuous Learning 📚 
 I am passionate about enhancing the user experience through the latest libraries, frameworks, and methods in Android development. With a strong foundation in Java and Kotlin, I'm always exploring new possibilities to push the boundaries of what mobile apps can achieve.
+
+## Let's connect 🌟 
+Let's connect and explore the possibilities together! Feel free to reach out for collaborations or discussions on all things Android.
 ___
 
 ## My Technology Stack 💻
+*Programming Languages:
+
 <!--
 Here are some ideas to get you started:
 
