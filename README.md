@@ -15,10 +15,9 @@ Let's connect and explore the possibilities together! Feel free to reach out for
 ___
 
 ## My Technology Stack 💻
-* Programming Languages:
- * Java
- * Kotlin
-
+- Programming Languages:
+  * Kotlin
+  * Java
 <!--
 Here are some ideas to get you started:
 
