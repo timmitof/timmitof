@@ -19,7 +19,7 @@
  </div>
 </div>
 
-## About Me 
+
 I'm Temirkhan Nurdinov, a passionate Android developer with a focus on crafting user-friendly and efficient mobile applications. 💻 I have a strong background in developing Android apps and enjoy building impactful experiences for users.
 
 ## My Travelling Experience 📱 
