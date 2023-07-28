@@ -1,7 +1,7 @@
 # Temirkhan Nurdinov: Android Developer
 
 <div id="header" align="center">
-  <a href="">
+  <a href="https://github.com/timmitof">
     <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
   </a>
  <div id="badges">
@@ -15,7 +15,7 @@
  <div>
   <h1>
   Hey There
-    <a href="">
+    <a href="https://github.com/timmitof">
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </a>
   </h1>
