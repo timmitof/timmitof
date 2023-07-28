@@ -1,5 +1,26 @@
 # Temirkhan Nurdinov: Android Developer
-👋 Hello, I'm Temirkhan Nurdinov, a passionate Android developer with a focus on crafting user-friendly and efficient mobile applications. 💻 I have a strong background in developing Android apps and enjoy building impactful experiences for users.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/timmitof/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/timmitof">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+ </div>
+ <div>
+  <h1>
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+ </div>
+</div>
+
+## About Me 
+I'm Temirkhan Nurdinov, a passionate Android developer with a focus on crafting user-friendly and efficient mobile applications. 💻 I have a strong background in developing Android apps and enjoy building impactful experiences for users.
 
 ## My Travelling Experience 📱 
 My expertise is building robust Android applications with a focus on user-centric design and smooth performance. My journey in the world of Android development has been filled with exciting challenges and opportunities, allowing me to gain solid experience in this dynamic field.
@@ -15,6 +36,8 @@ Let's connect and explore the possibilities together! Feel free to reach out for
 ___
 
 ## My Technology Stack 💻
+Here are the technologies, languages, and libraries I have expertise in:
+
 - Programming Languages:
   * Kotlin
   * Java
