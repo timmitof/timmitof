@@ -1,13 +1,13 @@
 ### Temirkhan Nurdinov: Android Developer
-______
+_
 👋 Hello, I'm Temirkhan Nurdinov, a passionate Android developer with a focus on crafting user-friendly and efficient mobile applications. 💻 I have a strong background in developing Android apps and enjoy building impactful experiences for users.
-______
+_
 📱 My expertise lies in building robust Android applications with a focus on user-centric design and smooth performance. My journey in the world of Android development has been filled with exciting challenges and opportunities, allowing me to gain solid experience in this dynamic field.
-______
+_
 🚀 I'm always on the lookout for exciting projects and challenges that push the boundaries of what's possible in the Android ecosystem. My goal is to build impactful and innovative applications that make a difference in people's lives.
-______
+_
 🌟 Let's connect and explore the possibilities together! Feel free to reach out for collaborations or discussions on all things Android.
-______
+_
 <!--
 Here are some ideas to get you started:
 
