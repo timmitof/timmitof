@@ -1,103 +1,43 @@
-# Temirkhan Nurdinov: Android Developer
-
-<div id="header" align="center">
+<div align="center">
   <a href="https://github.com/timmitof">
     <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
   </a>
- <div id="badges">
+
+  <h1>
+    Hey there, I'm Temirkhan
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=500&lines=Android+%26+iOS+developer;Kotlin+Multiplatform" alt="Typing animation"/>
+
+  <br/><br/>
+
   <a href="https://www.linkedin.com/in/timmitof/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/timmitof">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
- </div>
- <div>
-  <h1>
-  Hey There
-    <a href="https://github.com/timmitof">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </a>
-  </h1>
- </div>
 </div>
 
+---
 
-I'm Temirkhan Nurdinov, a passionate Android developer with a focus on crafting user-friendly and efficient mobile applications. 💻 I have a strong background in developing Android apps and enjoy building impactful experiences for users.
+## 👨‍💻 About me
 
-## My Travelling Experience 📱 
-My expertise is building robust Android applications with a focus on user-centric design and smooth performance. My journey in the world of Android development has been filled with exciting challenges and opportunities, allowing me to gain solid experience in this dynamic field.
+- 📱 Android & iOS developer, Kotlin Multiplatform
+- ⏳ 4+ years building production apps
+- 🧩 Take apps from architecture to store release
+- 🎨 Design my own interfaces when there's no designer
+- 📍 Bishkek, Kyrgyzstan
 
-## My Targets 🚀 
-I'm always on the lookout for exciting projects and challenges that push the boundaries of what's possible in the Android ecosystem. My goal is to build impactful and innovative applications that make a difference in people's lives.
+## 📱 My apps
 
-## Continuous Learning 📚 
-I am passionate about enhancing the user experience through the latest libraries, frameworks, and methods in Android development. With a strong foundation in Java and Kotlin, I'm always exploring new possibilities to push the boundaries of what mobile apps can achieve.
+| App | Get it |
+| --- | --- |
+| **Keyboard Fonts** | [<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>](https://play.google.com/store/apps/details?id=kg.timmitof.keyboardfonts) |
 
-## Let's connect 🌟 
-Let's connect and explore the possibilities together! Feel free to reach out for collaborations or discussions on all things Android.
-___
+<!-- New app: copy the row above, change the name and the link -->
 
-## My Technology Stack 💻
-Here are the technologies, languages, and libraries I have expertise in:
+## 🤝 Let's talk
 
-- Programming Languages:
-  * Kotlin
-  * Java
-
-- Android Development:
-  * Android Studio
-  * Gradle
-  * Jetpack Compose
-
-- Version Control:
-  * Git
-  * GitHub
-  * Butbucket
-  * GitLab
-  * GitFlow
-
-- Principles and Methodologies:
-  * OOP
-  * SOLID
-  * Clean Architecture
-  * Single Activity Architecture
-  * MVVM
-  * MVP, Moxy
-  * Multi-Module Architecture
-
-- Dependency Injection:
-  * Dagger-Hilt 2
-  * Koin
-
-- Networking:
-  * Retrofit2
-  * OkHttp3
-
-- Database:
-  * Room
-  * SharedPreference
-
-- Navigation:
-  * Navigation Component
-  * Safe Args
-  * Base Deep Linking
-  * Cicerone
-
-- UI:
-  * XML layouts
-  * Material Design
-  * Custom Views
-  * Figma
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always happy to talk about mobile development. Find me on Telegram or LinkedIn.
